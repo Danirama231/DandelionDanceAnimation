@@ -1,0 +1,26 @@
+{
+"name": "dandelionadanceanimation",
+"version": "1.0.0",
+"description": "This JavaScript code creates a charming animation of dandelions gracefully dancing across a webpage. The animation utilizes CSS transitions and JavaScript to dynamically create and animate the dandelion elements.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/Danirama231/DandelionDanceAnimation.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "Danirama231",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
